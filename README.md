@@ -11,7 +11,7 @@ Any unauthorized commercial use or reproduction is prohibited.
 
 ## 一、命名说明
 
-- **CHN**：China，明确国产属性
+- **CHN**：China，明确国产属性，避免与美国`X-*`系列混淆
 - **X**：旋（Xuán），倾转旋翼核心
 - **26**：2026年设计诞生
 
@@ -21,7 +21,7 @@ Any unauthorized commercial use or reproduction is prohibited.
 
 ## 二、设计灵感
 
-源自游戏《Turboprop Flight Simulator》MV-40倾转旋翼机，提取“倾转旋翼灵活、低空作战、可量产”核心亮点，结合现实航空工程逻辑进行国产化优化。
+源自游戏《Turboprop Flight Simulator》MV-40倾转旋翼机（https://turboprop-flight-simulator.fandom.com/wiki/MV-40），提取“倾转旋翼灵活、低空作战、可量产”核心亮点，结合现实航空工程逻辑进行国产化优化。
 
 ---
 
