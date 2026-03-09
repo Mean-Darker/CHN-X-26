@@ -24,7 +24,7 @@ CHN-X-26 命名逻辑：
 
 ## 三、设计灵感来源
 
-本方案灵感源自游戏《Turboprop Flight Simulator》中的 MV-40 倾转旋翼机（https://turboprop-flight-simulator.fandom.com/wiki/MV-40）。MV-40 是 XV-40 的特种作战变体，核心特征为玻璃鼻锥、五叶桨涡桨发动机，推重比达1.28，具备优异的垂直起降、低空低速精准飞行能力。
+本方案灵感源自游戏《Turboprop Flight Simulator》中的 MV-40 倾转旋翼机（https://turboprop-flight-simulator.fandom.com/wiki/MV-40 ）。MV-40 是 XV-40 的特种作战变体，核心特征为玻璃鼻锥、五叶桨涡桨发动机，推重比达1.28，具备优异的垂直起降、低空低速精准飞行能力。
 
 本方案提取其“倾转旋翼灵活、低空作战、可量产”的核心亮点，结合现实航空工程逻辑进行国产化优化。
 
