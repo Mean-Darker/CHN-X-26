@@ -1,6 +1,7 @@
 # CHN-X-26 旋-26“惊雷”倾转旋翼战术攻击机 —— 完整型号方案（初稿）
 
 **⚠️ IMPORTANT NOTICE**  
+
 This project is for academic research and personal design practice only.  
 All rights reserved by the author, a Chinese citizen.  
 Any unauthorized commercial use or reproduction is prohibited.  
