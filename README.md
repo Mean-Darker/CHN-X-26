@@ -211,7 +211,7 @@ Any unauthorized commercial use or reproduction is prohibited.
 
 ## 十二、版权与联系
 
-**作者**：Mean-Darker（初一学生，航空爱好者/半飞友）  
+**作者**：Mean Darker（初一学生，航空爱好者/半飞友）  
 **设计年份**：2026年3月  
 **联系方式**：GitHub Issues / 717480930@qq.com  
 **欢迎技术讨论，谢绝无脑喷子。**
